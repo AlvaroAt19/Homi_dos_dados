@@ -1,5 +1,5 @@
 # Homi_dos_dados
-Meu portifólio de ciência de dados
+Meu portfólio de ciência de dados
 
 Links:
 <a href="https://www.linkedin.com/in/alvaroat19/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=LinkedIn&color=%230076D6&style=flat&logo=linkedin&logoColor=%230076D6" alt="website"/></a>
