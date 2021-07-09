@@ -17,9 +17,9 @@ Ferramentas:
 
 ### Projetos:
 
-* **weatherAUS: Análise dos dados climáticos da Austrália e construção de um modelo preditivo supervisionado de classificação
+* **weatherAUS:** Análise dos dados climáticos da Austrália e construção de um modelo preditivo supervisionado de classificação
 
-* **SeoulBike: Análise dos dados de aluguéis de bicicletas em Seoul e construção de um modelo preditivo supervisionado de regressão
+* **SeoulBike:** Análise dos dados de aluguéis de bicicletas em Seoul e construção de um modelo preditivo supervisionado de regressão
 
-* **covid_rj: Simples análise dos dados de vacinação da Covid no estado do Rio de Janeiro
+* **covid_rj:** Simples análise dos dados de vacinação da Covid no estado do Rio de Janeiro
 
