@@ -14,3 +14,12 @@ Ferramentas:
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Seaborn&color=&style=flat&logo=Seaborn&logoColor=black"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=scikit-learning&color=&style=flat&logo=sklearning&logoColor=black"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Jupyter%20Notebook&color=&style=flat&logo=jupyter&logoColor=orange"></a>
+
+### Projetos:
+
+* **weatherAUS: Análise dos dados climáticos da Austrália e construção de um modelo preditivo supervisionado de classificação
+
+* **SeoulBike: Análise dos dados de aluguéis de bicicletas em Seoul e construção de um modelo preditivo supervisionado de regressão
+
+* **covid_rj: Simples análise dos dados de vacinação da Covid no estado do Rio de Janeiro
+
