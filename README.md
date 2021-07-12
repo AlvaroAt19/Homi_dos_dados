@@ -24,3 +24,5 @@ Ferramentas:
 * **covid_rj:** Simples análise dos dados de vacinação da Covid no estado do Rio de Janeiro
 
 * **heart_disease:** Análise de dados clínicos sobre doenças do coração e construção de um modelo preditivo supervisionado de classificação
+
+* **SpamDetector:** Análise de mensagens de texto classificadas como ham e spam e criação de um modelo preditivo supervisionado de classificação (NLP)
