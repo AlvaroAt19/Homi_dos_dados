@@ -25,4 +25,4 @@ Ferramentas:
 
 * **heart_disease:** Análise de dados clínicos sobre doenças do coração e construção de um modelo preditivo supervisionado de classificação
 
-* **SpamDetector:** Análise de mensagens de texto classificadas como ham e spam e criação de um modelo preditivo supervisionado de classificação (NLP)
+* **SpamDetector:** Análise de mensagens de texto com o objetivo de detectar spam e criação de um modelo preditivo supervisionado de classificação (NLP)
