@@ -19,10 +19,10 @@ Ferramentas:
 
 * **weatherAUS:** Análise dos dados climáticos da Austrália e construção de um modelo preditivo supervisionado de classificação
 
-* **SeoulBike:** Análise dos dados de aluguéis de bicicletas em Seoul e construção de um modelo preditivo supervisionado de regressão
+* **SeoulBike:** Análise dos dados de aluguéis de bicicletas em Seoul e construção de um modelo preditivo supervisionado de regressão para prever a quantidade de alugueis no dia
 
 * **covid_rj:** Simples análise dos dados de vacinação da Covid no estado do Rio de Janeiro
 
-* **heart_disease:** Análise de dados clínicos sobre doenças do coração e construção de um modelo preditivo supervisionado de classificação
+* **heart_disease:** Análise de dados clínicos sobre doenças do coração e construção de um modelo preditivo supervisionado de classificação para detectar tais doenças
 
-* **SpamDetector:** Análise de mensagens de texto com o objetivo de detectar spam e criação de um modelo preditivo supervisionado de classificação (NLP)
+* **SpamDetector(NLP):** Análise de mensagens de texto com o objetivo de detectar spam e criação de um modelo preditivo supervisionado de classificação
