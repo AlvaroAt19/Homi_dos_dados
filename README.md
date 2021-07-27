@@ -12,7 +12,7 @@ Ferramentas:
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=numpy&color=&style=flat&logo=numpy&logoColor=orange"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Matplotlib&color=&style=flat"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Seaborn&color=&style=flat&logo=Seaborn&logoColor=black"></a>
-<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=scikit-learning&color=&style=flat&logo=sklearning&logoColor=black"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=scikit-learn&color=&style=flat&logo=scikitlearn&logoColor=orange"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Jupyter%20Notebook&color=&style=flat&logo=jupyter&logoColor=orange"></a>
 
 ### Projetos:
