@@ -17,10 +17,10 @@ Ferramentas:
 
 ### Projetos:
 
-* **weatherAUS:** Análise dos dados climáticos da Austrália e construção de um modelo preditivo supervisionado de classificação
+* **weatherAUS:** Análise dos dados climáticos da Austrália e construção de um modelo preditivo(supervisionado de classificação) para tentar prever, com base nos dados do dia atual, se choverá no dia seguinte.
 
-* **SeoulBike:** Análise dos dados de aluguéis de bicicletas em Seoul e construção de um modelo preditivo supervisionado de regressão para prever a quantidade de alugueis no dia
+* **SeoulBike:** Análise dos dados de aluguéis de bicicletas em Seoul e construção de um modelo preditivo(supervisionado de regressão) para prever a quantidade de alugueis no dia com base em algumas informações como temperatura média, estação do ano, previsão de chuva e etc...
 
-* **covid_rj:** Simples análise dos dados de vacinação da Covid no estado do Rio de Janeiro
+* **covid_rj:** Simples análise dos dados de vacinação da Covid no estado do Rio de Janeiro onde gero algumas visualizações e encontro inconsistências nos dados
 
-* **SpamDetector(NLP):** Análise de mensagens de texto com o objetivo de detectar spam e criação de um modelo preditivo supervisionado de classificação
+* **SpamDetector(NLP):** Análise de mensagens de texto e criação de um modelo preditivo(supervisionado de classificação) para dizer se uma mensagem é um spam ou não
